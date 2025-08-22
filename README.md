@@ -5,6 +5,7 @@ I began my career in mechanical engineering, where I learned to approach problem
 ✨ This portfolio is a work in progress—new projects and experiments will be added regularly as I continue to explore the exciting world of AI & Data Science.
 
 📂 Projects
+
 1️⃣ Customer Churn Prediction
 
 Type: Traditional Data Science / Machine Learning
